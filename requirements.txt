@@ -1,0 +1,10 @@
+**内容：**
+```
+streamlit
+yfinance
+plotly
+pandas
+numpy
+matplotlib
+scipy
+```
